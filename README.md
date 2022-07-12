@@ -1,0 +1,2 @@
+# devilutionx-artifacts
+DevilutionX artifacts
